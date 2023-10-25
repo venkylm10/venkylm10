@@ -7,6 +7,8 @@
 
 - 💻 Major in **Computer Science and Engineering**
 
+- 😃 Currently a Flutter App Developer @SWCIITG
+
 - 🔭 I’m currently working on [pub_dev_packages](https://github.com/venkylm10/pub_dev_packages)
 
 - 🌱 I’m currently learning **Advanced Flutter and MERN Stack**
