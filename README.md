@@ -3,17 +3,17 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkylm10" alt="venkylm10" /></a> </p>-->
 
-- 📚 I'm a Sophomore at **IIT Guwahati**
+- 📚 I'm a Junior at **IIT Guwahati**
 
 - 💻 Major in **Computer Science and Engineering**
 
 - 😃 Currently a Flutter App Developer @SWCIITG
 
-- 🔭 I’m currently working on [pub_dev_packages](https://github.com/venkylm10/pub_dev_packages)
+- 🔭 I’m currently working on [iitg-auto-login](https://github.com/venkylm10/iitg-auto-login)
 
 - 🌱 I’m currently learning **Advanced Flutter and MERN Stack**
 
-- 💬 Ask me about **Flutter, Firebase, Riverpod**
+- 💬 Ask me about **Flutter, Firebase, Riverpod, GetX**
 
 - 📫 How to reach me **venkylm10@gmail.com**
 
